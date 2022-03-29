@@ -1,0 +1,8 @@
+.Tilty {
+	  background: rgb(255,94,223);
+      background: linear-gradient(90deg, rgba(255,94,223,1) 0%, rgba(4,200,222,1) 100%);
+}
+
+.pa3 img {
+	padding-top: 5px;
+}
